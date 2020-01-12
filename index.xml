@@ -5,12 +5,59 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Tyler Cox</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tyler Cox</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Fast Radio Bursts</title>
+      <link>/post/new_post_1/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/new_post_1/</guid>
+      <description>&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cross-Correlation 21$\,$cm and Ly$\alpha$ Intensity Maps</title>
+      <link>/post/new_post/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/new_post/</guid>
+      <description>&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+&lt;p&gt;$$ \Delta^2_{21} \left( k \right) = \frac{k^3}{2 \pi^2} P_{21} \left( k \right)$$&lt;/p&gt;
+&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+&lt;p&gt;Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.
+Here is content. Here is content. Here is content. Here is content. Here is content.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
